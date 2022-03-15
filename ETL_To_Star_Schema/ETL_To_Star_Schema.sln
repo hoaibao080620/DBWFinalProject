@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_To_Star_Schema", "ETL_To_Star_Schema\ETL_To_Star_Schema.dtproj", "{CF9DBDEB-0064-4B43-A4B7-31196273DB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9DBDEB-0064-4B43-A4B7-31196273DB8E}.Development|Default.ActiveCfg = Development
+		{CF9DBDEB-0064-4B43-A4B7-31196273DB8E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C2C0C76-C2F7-4844-8F02-929D19611827}
+	EndGlobalSection
+EndGlobal
